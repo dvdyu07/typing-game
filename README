@@ -1,0 +1,9 @@
+To run the app, download the code, and run "npm run dev" within the my-app folder
+
+Then access by opening the provided localhost link.
+
+Note: The game is only playable by guest because our AWS subscription is expired, so our user database functions are down.
+
+You can change the difficulty of the words and the number of words.
+
+There is also Dark and Light mode.
